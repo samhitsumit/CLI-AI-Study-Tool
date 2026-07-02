@@ -1,0 +1,134 @@
+{
+    "QCount": {
+        "Wrong": 51,
+        "Correct": 83
+    },
+    "History": {
+        "15/06/2026": 14,
+        "13/06/2026": 3,
+        "16/06/2026": 5
+    },
+    "SQuestions": [
+        {
+            "Q": "Which tool is commonly used to measure the mass of an object?",
+            "O": [
+                "1. Thermometer",
+                "2. Ruler",
+                "3. Balance scale",
+                "4. Stopwatch"
+            ],
+            "A": "3",
+            "UA": "2"
+        },
+        {
+            "Q": "Which animal has a long trunk?",
+            "O": [
+                "1. Zebra",
+                "2. Rhino",
+                "3. Giraffe",
+                "4. Elephant"
+            ],
+            "A": "4",
+            "UA": "42"
+        },
+        {
+            "Q": "Which formula correctly describes density?",
+            "O": [
+                "1. Volume / Mass",
+                "2. Mass / Volume",
+                "3. Force / Area",
+                "4. Time / Distance"
+            ],
+            "A": "2",
+            "UA": "1"
+        },
+        {
+            "Q": "What is the answer when you find the total amount of cookies baked each day for a week?",
+            "O": [
+                "1. Multiply the cookies by 7",
+                "2. Add the cookies for 7 days",
+                "3. Divide the cookies by 7",
+                "4. Subtract the cookies from 7"
+            ],
+            "A": "2",
+            "UA": "2"
+        },
+        {
+            "Q": "Sarah collects 3 stickers every day for 6 days. How many stickers does she have in total?",
+            "O": [
+                "1. 3 - 6",
+                "2. 3 + 6",
+                "3. 3 x 6",
+                "4. 3 / 6"
+            ],
+            "A": "3",
+            "UA": "3"
+        },
+        {
+            "Q": "Which force pulls objects towards the center of the Earth?",
+            "O": [
+                "1. Friction",
+                "2. Gravity",
+                "3. Magnetism",
+                "4. Tension"
+            ],
+            "A": "2",
+            "UA": "2"
+        },
+        {
+            "Q": "What force opposes motion when two surfaces are sliding against each other?",
+            "O": [
+                "1. Gravity",
+                "2. Normal force",
+                "3. Friction",
+                "4. Tension"
+            ],
+            "A": "3",
+            "UA": "3"
+        },
+        {
+            "Q": "When the sun rises, what spreads everywhere?",
+            "O": [
+                "1. Darkness",
+                "2. Light",
+                "3. Moon",
+                "4. Temperature"
+            ],
+            "A": "2",
+            "UA": "2"
+        },
+        {
+            "Q": "Which force is created when two surfaces slide against each other?",
+            "O": [
+                "1. Gravity",
+                "2. Friction",
+                "3. Magnetism",
+                "4. Push"
+            ],
+            "A": "2",
+            "UA": "2"
+        },
+        {
+            "Q": "Before the play starts, the performer waits behind the heavy _______.",
+            "O": [
+                "1. audience",
+                "2. set",
+                "3. curtain",
+                "4. stage"
+            ],
+            "A": "3",
+            "UA": "3"
+        },
+        {
+            "Q": "Which method of heat transfer relies on the movement of fluids?",
+            "O": [
+                "1. Conduction",
+                "2. Convection",
+                "3. Radiation",
+                "4. Insulation"
+            ],
+            "A": "2",
+            "UA": "2"
+        }
+    ]
+}
